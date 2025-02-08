@@ -1,0 +1,24 @@
+div{
+    border: 1px solid white;
+}
+
+.verde{
+    background-color: green;
+    height: 75px;
+}
+
+.fucsia{
+    background-color: fuchsia;
+    height: 70px;
+}
+
+.salmon{
+    background-color: salmon;
+    height: 180px;
+}
+
+.azul{
+    background-color: blue;
+    height: 90px;
+}
+

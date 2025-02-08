@@ -1,0 +1,28 @@
+* body{
+    background-color: slategray;
+}
+
+.cabeza h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+
+img{
+    height: 500px;
+}
+
+.centrar{
+    text-align: center;
+}
+
+footer{
+    background-color: darkslategrey;
+}
+
+footer p{
+    color: aliceblue;
+    font-size: small;
+    text-align: center;
+    margin: 0;
+}
